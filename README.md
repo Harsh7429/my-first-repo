@@ -1,3 +1,3 @@
 # my-first-repo
-My first GitHub repository for learning and practice
+My first GitHub repository for learning and practice.
 Author - Harsh Kumar
